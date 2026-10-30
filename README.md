@@ -2,62 +2,46 @@ Hi, I'm Yogesh Shinde! 👋
 
 Full Stack Developer | AI-Assisted Development | Data Analytics Enthusiast
 
-🎓 TYBBA(CA) Student
-📍 Pune, Maharashtra, India
+🎓 TYBBA(CA) Student | 📍 Pune, Maharashtra, India
 
-I'm passionate about building real-world web applications and exploring how AI can make software development smarter and more efficient.
+I'm passionate about building real-world web applications and exploring how AI can improve software development.
 
-I enjoy developing full-stack applications, solving problems, and continuously learning new technologies.
+I enjoy developing full-stack applications, solving practical problems, and working with data to generate meaningful insights.
 
 💻 Technical Skills
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML5, CSS3, JavaScript, Tailwind CSS
 - Backend: PHP, Python
 - Database: MySQL, SQL
-- Data Analytics: Excel, Power BI
-- Development Tools: VS Code, Git, GitHub
-- AI Tools: ChatGPT and AI-assisted development tools
+- Data Analytics: Microsoft Excel, Power BI
+- Tools: VS Code, Git, GitHub
+- AI Tools: ChatGPT, AI-assisted development tools
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🍲 NourishNet
-**Autonomous Surplus Food Rescue & Verification Network**
+🍲 NourishNet
 
-A full-stack platform connecting surplus food donors with NGOs and shelters to reduce food waste.
+Autonomous Surplus Food Rescue & Verification Network.
 
-- Food Donation & Live Marketplace
-- Atomic Database Locking
-- QR Code & Digital Gate Pass
-- PIN-Based Proof of Delivery
-- GPS Navigation & Live Map
-- Food Impact Analytics
+A platform connecting surplus food donors with NGOs and shelters.
 
-Tech Stack: PHP, MySQL, JavaScript, Tailwind CSS, Leaflet.
+⚡ SkillSync
 
-### ⚡ SkillSync
-**Smart Skill Matching & Talent Exchange Platform**
+Smart Skill Matching & Talent Exchange Platform.
 
-A career development platform connecting students, professionals, mentors and organizations.
+A platform connecting students, professionals, mentors, and organizations.
 
-- User Authentication
-- Skill Mapping Engine
-- Task & Opportunity Management
-- Role-Based Access Control
-- Admin & User Dashboards
+📊 Sales & Profit Analytics
 
-Tech Stack: PHP, MySQL, HTML, CSS, JavaScript.
+A business intelligence project focused on data cleaning, analysis, and visualization using Excel, SQL, and Power BI.
 
-### 📊 Sales & Profit Analytics
-- Excel Data Cleaning
-- SQL Database Management
-- Power BI Dashboard
-- Business Insights & Visualization
 📚 Currently Learning
 
 - Full Stack Web Development
-- Python & Advanced SQL
+- Python for Data Analytics
+- Advanced SQL
 - AI-Assisted Software Development
-- Data Analytics & Business Intelligence
+- Business Intelligence
 
 📜 Certifications
 
@@ -67,6 +51,6 @@ Tech Stack: PHP, MySQL, HTML, CSS, JavaScript.
 
 🤝 Connect With Me
 
-- LinkedIn: "My LinkedIn" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
+- LinkedIn: "Yogesh Shinde" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
 
-⭐ Always learning, building, and improving!
+⭐ Always Learning | Always Building | Always Improving
