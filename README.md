@@ -1,52 +1,108 @@
 Hi, I'm Yogesh Shinde 👋
 
-TYBBA(CA) Student | Aspiring Full Stack Developer & Data Analyst
+Aspiring Data Analyst | AI-Assisted Full Stack Developer
 
-I'm passionate about building web applications, exploring data analytics, and learning how AI can improve technology and business solutions.
+I'm a TYBBA(CA) student passionate about Data Analytics, Business Intelligence, Full Stack Development, and AI-powered solutions.
 
-- 🎓 Currently pursuing TYBBA(CA)
-- 💻 Learning Full Stack Development and Data Analytics
-- 📊 Interested in Business Intelligence and AI-powered analytics
-- 🚀 Building practical projects and improving my technical skills
-- 🌱 Always learning and exploring new technologies
+I enjoy analyzing data, building web applications, and using AI tools to improve productivity, problem-solving, and development workflows.
 
-🛠️ Technical Skills
+---
 
-- Programming: PHP, Python, C, C++
-- Database: MySQL, SQL
-- Data Analytics: Microsoft Excel, Power BI
-- Tools: VS Code, GitHub, Canva
-- AI Tools: ChatGPT
+💻 Technical Skills
 
-🚀 My Projects
+📊 Data Analytics & Business Intelligence
 
-1. NourishNet
+- Microsoft Excel
+- SQL (Basic)
+- Power BI (Learning)
+- Data Analysis
+- Data Visualization
+- Data Cleaning
+- Basic Statistics
+- Report Writing & Documentation
 
-A food donation and management platform designed to connect food donors with people in need.
+🌐 Full Stack Development
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Database Connectivity
+- Web Application Development
+- Frontend & Backend Integration
+
+🤖 AI Tools & AI-Assisted Development
+
+- ChatGPT
+- Microsoft Copilot
+- Excel Copilot
+- AI-Assisted Coding
+- Code Debugging & Optimization
+- AI-Assisted Problem Solving
+- Formula Building & Report Drafting
+
+🧠 Analytical & Soft Skills
+
+- Observation & Pattern Recognition
+- Problem Solving
+- Leadership & Team Coordination
+- Communication
+- Analytical Thinking
+- Learning Agility
+
+🛠️ Tools & Platforms
+
+- Visual Studio Code
+- Git & GitHub
+- XAMPP
+- Power BI
+- Microsoft Excel
+
+---
+
+🚀 Featured Projects
+
+1. NourishNet – Food Donation & Management Platform
+
+A web-based platform designed to connect food donors with people in need and support food donation management.
 
 Technologies: PHP, MySQL
 
-"View Project" (https://github.com/yogishinde122-creator/NourishNet)
+"View Repository" (https://github.com/yogishinde122-creator/NourishNet)
 
-2. SkillSync
+2. SkillSync – Smart Skill Matching & Talent Exchange Platform
 
-A Smart Skill Matching and Talent Exchange Platform designed to connect students, skilled individuals, and companies.
+A platform designed to connect students, skilled individuals, and companies through skill matching and career opportunities.
 
-Technologies: PHP, MySQL
+Technologies: PHP, MySQL, HTML, CSS, JavaScript
 
-"View Project" (https://github.com/yogishinde122-creator/SkillSync)
+"View Repository" (https://github.com/yogishinde122-creator/SkillSync)
 
-🏆 Certifications & Learning
+---
+
+📜 Certifications
 
 - Data Analytics – Sambhav Foundation
 - Advanced Excel – Imarticus Learning
 - Power BI – Imarticus Learning
 
-📫 Connect With Me
+---
 
-- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
-- GitHub: "My GitHub Profile" (https://github.com/yogishinde122-creator)
+🎯 Career Interests
+
+- Data Analyst
+- Business Intelligence Analyst
+- AI-Assisted Full Stack Developer
+- AI-Powered Data Solutions
 
 ---
 
-⭐ Learning, Building, and Growing Every Day!
+📫 Connect With Me
+
+- LinkedIn: "Connect with me" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
+- GitHub: "Explore my repositories" (https://github.com/yogishinde122-creator)
+
+---
+
+⭐ Learning • Building • Analyzing • Growing
