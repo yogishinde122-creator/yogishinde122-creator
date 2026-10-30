@@ -1,56 +1,52 @@
-Hi, I'm Yogesh Shinde! 👋
+Hi, I'm Yogesh Shinde 👋
 
-Full Stack Developer | AI-Assisted Development | Data Analytics Enthusiast
+TYBBA(CA) Student | Aspiring Full Stack Developer & Data Analyst
 
-🎓 TYBBA(CA) Student | 📍 Pune, Maharashtra, India
+I'm passionate about building web applications, exploring data analytics, and learning how AI can improve technology and business solutions.
 
-I'm passionate about building real-world web applications and exploring how AI can improve software development.
+- 🎓 Currently pursuing TYBBA(CA)
+- 💻 Learning Full Stack Development and Data Analytics
+- 📊 Interested in Business Intelligence and AI-powered analytics
+- 🚀 Building practical projects and improving my technical skills
+- 🌱 Always learning and exploring new technologies
 
-I enjoy developing full-stack applications, solving practical problems, and working with data to generate meaningful insights.
+🛠️ Technical Skills
 
-💻 Technical Skills
-
-- Frontend: HTML5, CSS3, JavaScript, Tailwind CSS
-- Backend: PHP, Python
+- Programming: PHP, Python, C, C++
 - Database: MySQL, SQL
 - Data Analytics: Microsoft Excel, Power BI
-- Tools: VS Code, Git, GitHub
-- AI Tools: ChatGPT, AI-assisted development tools
+- Tools: VS Code, GitHub, Canva
+- AI Tools: ChatGPT
 
-🚀 Featured Projects
+🚀 My Projects
 
-🍲 NourishNet
+1. NourishNet
 
-Autonomous Surplus Food Rescue & Verification Network.
+A food donation and management platform designed to connect food donors with people in need.
 
-A platform connecting surplus food donors with NGOs and shelters.
+Technologies: PHP, MySQL
 
-⚡ SkillSync
+"View Project" (https://github.com/yogishinde122-creator/NourishNet)
 
-Smart Skill Matching & Talent Exchange Platform.
+2. SkillSync
 
-A platform connecting students, professionals, mentors, and organizations.
+A Smart Skill Matching and Talent Exchange Platform designed to connect students, skilled individuals, and companies.
 
-📊 Sales & Profit Analytics
+Technologies: PHP, MySQL
 
-A business intelligence project focused on data cleaning, analysis, and visualization using Excel, SQL, and Power BI.
+"View Project" (https://github.com/yogishinde122-creator/SkillSync)
 
-📚 Currently Learning
-
-- Full Stack Web Development
-- Python for Data Analytics
-- Advanced SQL
-- AI-Assisted Software Development
-- Business Intelligence
-
-📜 Certifications
+🏆 Certifications & Learning
 
 - Data Analytics – Sambhav Foundation
 - Advanced Excel – Imarticus Learning
 - Power BI – Imarticus Learning
 
-🤝 Connect With Me
+📫 Connect With Me
 
-- LinkedIn: "Yogesh Shinde" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
+- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/yogesh-shinde-871954308/)
+- GitHub: "My GitHub Profile" (https://github.com/yogishinde122-creator)
 
-⭐ Always Learning | Always Building | Always Improving
+---
+
+⭐ Learning, Building, and Growing Every Day!
