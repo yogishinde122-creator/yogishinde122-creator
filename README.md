@@ -18,12 +18,40 @@ I enjoy developing full-stack applications, solving problems, and continuously l
 - Development Tools: VS Code, Git, GitHub
 - AI Tools: ChatGPT and AI-assisted development tools
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-- SkillSync: Full-stack career development platform (College Project).
-- Sales & Profit Analytics: Power BI dashboard with Excel and SQL.
-- Web Development Projects: Building practical applications using AI-assisted development.
+### 🍲 NourishNet
+**Autonomous Surplus Food Rescue & Verification Network**
 
+A full-stack platform connecting surplus food donors with NGOs and shelters to reduce food waste.
+
+- Food Donation & Live Marketplace
+- Atomic Database Locking
+- QR Code & Digital Gate Pass
+- PIN-Based Proof of Delivery
+- GPS Navigation & Live Map
+- Food Impact Analytics
+
+Tech Stack: PHP, MySQL, JavaScript, Tailwind CSS, Leaflet.
+
+### ⚡ SkillSync
+**Smart Skill Matching & Talent Exchange Platform**
+
+A career development platform connecting students, professionals, mentors and organizations.
+
+- User Authentication
+- Skill Mapping Engine
+- Task & Opportunity Management
+- Role-Based Access Control
+- Admin & User Dashboards
+
+Tech Stack: PHP, MySQL, HTML, CSS, JavaScript.
+
+### 📊 Sales & Profit Analytics
+- Excel Data Cleaning
+- SQL Database Management
+- Power BI Dashboard
+- Business Insights & Visualization
 📚 Currently Learning
 
 - Full Stack Web Development
