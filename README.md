@@ -1,6 +1,6 @@
 # Hi, I'm Yogesh Shinde 👋
 
-**Aspiring Data Analyst & PHP/MySQL Developer** | Final-year BBA (Computer Applications), Pune
+**Aspiring Data Analyst | SQL · Python · Power BI · Excel** | Also building PHP/MySQL web apps | Final-year BBA (Computer Applications), Pune
 
 I turn raw data into dashboards and ideas into working web apps. I'm looking for **internships and entry-level roles** in Data Analytics, Business Intelligence, and Web Development.
 
@@ -12,26 +12,32 @@ I turn raw data into dashboards and ideas into working web apps. I'm looking for
 
 | | |
 |---|---|
-| **Data & BI** | Excel (Intermediate) · Power BI (KPI cards, DAX basics) · SQL (basic queries) · Data Cleaning · Python (basic) |
+| **Data & BI** | Excel (Intermediate) · Power BI (KPI cards, DAX basics) · SQL (basic queries) · Data Cleaning · Python (basic) · pandas · DuckDB · Streamlit |
 | **Web Development** | PHP · MySQL · JavaScript · HTML · CSS · Tailwind CSS |
-| **Tools** | Git · GitHub · VS Code · XAMPP · phpMyAdmin |
+| **Tools** | Git · GitHub · VS Code · uv · XAMPP · phpMyAdmin |
 | **AI Tools** | ChatGPT · Microsoft Copilot · Excel Copilot (for faster cleaning, formulas, debugging) |
 
 ---
 
 ## 📊 Featured Projects
 
-### 1. Sales & Profitability Dashboard — Power BI
+### 1. [AI SQL Analyst](https://github.com/yogishinde122-creator/ai-sql-analyst) — Bank Churn Analysis & AI SQL Accuracy Test
+**Python · DuckDB · SQL · pandas · Streamlit · Plotly**
+
+Analysed 10,000 bank customers with SQL, then measured how accurately an AI assistant writes SQL for the same business questions.
+
+- Overall churn 20.4%; Germany highest at 32.44%; inactive members churn at 26.87% vs 14.27% for active
+- Spotted data leakage: 2,034 of 2,044 customers who complained left
+- 10-question golden set with automated scoring: AI scored 8/10 on the first attempt
+
+### 2. Sales & Profitability Dashboard — Power BI
 A 4-page interactive dashboard analyzing ₹3.17 lakh in sales across regions, categories, and sales reps.
 
 - KPI cards and DAX measures for Total Sales, Profit, Profit Margin %, and Orders
 - Discount vs. profitability analysis showing how margins change as discounts increase
 - Bubble chart comparing units sold and profit margin across 15+ products
-- **Key insights:** `[add 2–3 real findings here, e.g. "Margins turn negative above X% discount"; "Region Y drives Z% of sales"]`
 
-`[Add dashboard screenshots or a PDF link here]`
-
-### 2. [NourishNet](https://github.com/yogishinde122-creator/NourishNet) — Food Donation & Management Platform
+### 3. [NourishNet](https://github.com/yogishinde122-creator/NourishNet) — Food Donation & Management Platform
 **PHP · MySQL · JavaScript · Tailwind CSS · Leaflet/OpenStreetMap**
 
 Connects surplus-food donors with NGOs and shelters so food gets used before it expires.
@@ -41,9 +47,9 @@ Connects surplus-food donors with NGOs and shelters so food gets used before it 
 - Automated expiry checks and notifications (cron scripts)
 - Admin dashboard with analytics and impact tracking
 
-`[Add screenshot / live demo link]`
+[Screenshots](https://github.com/yogishinde122-creator/NourishNet#-screenshots)
 
-### 3. [SkillSync](https://github.com/yogishinde122-creator/SkillSync) — Skill Matching & Talent Exchange Platform
+### 4. [SkillSync](https://github.com/yogishinde122-creator/SkillSync) — Skill Matching & Talent Exchange Platform
 **PHP · MySQL · HTML · CSS · JavaScript**
 
 Connects students, trainers, and companies through skills and opportunities.
@@ -52,7 +58,7 @@ Connects students, trainers, and companies through skills and opportunities.
 - Skill assessments, certificates, and job applications
 - Built-in chat API for communication
 
-`[Add screenshot / live demo link]`
+[Screenshots](https://github.com/yogishinde122-creator/SkillSync#-screenshots)
 
 ---
 
@@ -66,7 +72,7 @@ Connects students, trainers, and companies through skills and opportunities.
 
 ## 🤝 Leadership
 
-**Project Manager (2 years)** — Swaroop Vardhini Child's Individual Development Centre: coordinated educational and sports activities, camps and trips, and parent communication for `[add number]` students.
+**Project Manager (2 years)** — Swaroop Vardhini Child's Individual Development Centre: coordinated educational and sports activities, camps and trips, and parent communication.
 
 ---
 
